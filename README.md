@@ -34,7 +34,7 @@ Traditional SEO is an algorithmic guessing game that requires ongoing defensive 
 ### Google Antigravity / Claude Code (CLI)
 To install with live local sync (recommended):
 ```bash
-ln -sf "/path/to/kirby-skills/kirby-preferred-sources" "~/.gemini/config/skills/kirby-preferred-sources"
+ln -sf "/path/to/kirby-skills/kirby-preferred-sources" "$HOME/.gemini/config/skills/kirby-preferred-sources"
 ```
 Or clone standalone directly into your skills directory:
 ```bash
