@@ -62,7 +62,7 @@ To achieve maximum conversion velocity (tripling typical click-through rates fro
 **Trigger**: Automated SMS or Email delivered 10 minutes after a customer leaves a 5-star review on Google Business Profile.
 
 #### SMS Template:
-> *"Hi [First Name], thanks so much for the 5-star review for [Business Name]! To ensure you always see our emergency repair tips and priority seasonal discounts directly in your Google AI search, tap to add us as a preferred source: https://www.google.com/preferences/source?domain=[business.com]&action=add&source=sms_review"*
+> *"Hi [First Name], thanks so much for the 5-star review for [Business Name]! To ensure you always see our emergency repair tips and priority seasonal discounts directly in your Google AI search, tap to add us as a preferred source: https://www.google.com/preferences/source?domain=[business.com]&action=add&source=sms_review_flow"*
 
 #### Post-Service Email Follow-Up:
 > **Subject**: A quick way to keep [Business Name] handy on Google  
