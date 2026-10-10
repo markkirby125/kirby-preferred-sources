@@ -2,6 +2,8 @@
 
 A specialized AI Agent skill for implementing Google's **Preferred Sources** button, **Direct Trust Override** architecture, **Discover Natural Language Feed Customization**, and **Google News Audio Briefing Attribution** (introduced August 2026).
 
+**October 2026 update (Module 1 §1.5):** The Personal Intelligence layer — why AI Mode answers diverge per user (Gmail inbox incl. Spam folder, Google Photos entity recognition, Chrome behavioral footprint). Documented for threat-model awareness only, with an absolute prohibition on spam-folder seeding as outreach; the compliant lever remains explicit Direct Trust registration.
+
 ---
 
 ## 🪄 The Magic Prompt
