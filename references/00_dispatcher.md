@@ -11,7 +11,7 @@ When executing tasks under this skill, **do not guess**. Consult the specific re
 ## 📚 Module Index
 
 - **Module 1: Direct Trust Mechanics & Technical SDK Embeds**  
-  *Core architecture, Google AI personalization, domain/subdomain eligibility constraints, JavaScript SDK attributes, ESM integration, and non-JS fallback deep-link schema.*  
+  *Core architecture, Google AI personalization, domain/subdomain eligibility constraints, JavaScript SDK attributes, ESM integration, non-JS fallback deep-link schema, and the Personal Intelligence layer (Gmail/Photos/Chrome vectors — awareness-only).*  
   👉 Read `./module_1_direct_trust_mechanics.md`
 
 - **Module 2: The Value-Peak Isolated CTA & 3x Conversion Rate Framework**  
@@ -36,6 +36,7 @@ When executing tasks under this skill, **do not guess**. Consult the specific re
 - You are optimizing a site's semantic structure for Google News personalized audio briefing attribution (Module 3).
 - You are crafting reader callouts to guide users into customizing their Google Discover feeds via natural language (Module 3).
 - You are configuring Google Analytics 4 or Google Tag Manager to track Preferred Source clicks and correlate with GSC AI Overview impressions (Module 4).
+- You need to understand *why* an AI Mode answer diverges across users (Gmail/Photos/Chrome Personal Intelligence vectors, Module 1 §1.5 — awareness/context only, not an action trigger; the compliant lever remains explicit Direct Trust).
 - Related cross-references:
   - For local GBP hygiene, Geogrids, and Ask Maps: see `kirby-local-seo`.
   - For site-wide AI SEO, crawler accessibility, and RAG chunking: see `kirby-aiseo-skill`.

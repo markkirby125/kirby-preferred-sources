@@ -149,3 +149,19 @@ https://www.google.com/preferences/source?domain=[DOMAIN]&action=add&source=[SOU
 SMS Follow-up:
 "Thanks for reviewing Acme Roofing! Tap here to prioritize our home tips & seasonal discounts directly in your Google AI Search: https://www.google.com/preferences/source?domain=acmeroofing.com&action=add&source=sms_review_flow"
 ```
+
+---
+
+## 1.5 The Personal Intelligence Layer: Gmail / Photos / Chrome Vectors
+
+*Source: Charles Floate, LLM Mastery — Google AI Mode analysis (single-source, directional).*
+
+**Context:** Over 98% of Google AI Mode sessions run logged-in to a personal Google account (Floate, LLM Mastery — single-source, directional), so nearly every output is tailored by **Google Personal Intelligence** on top of the 1st-party trust edges this module engineers (§1.1). Understanding the three personalization vectors below is *threat-model context* for why Direct Trust (the explicit, user-consented edge) outperforms and outlasts any attempt to game the implicit layer.
+
+* **Vector 1 — Gmail Inbox (incl. Spam folder):** AI Mode scans email contents to personalize responses; as of October 2026 it reportedly does **not** exclude the Spam folder (the guardrail below holds regardless of whether that behavior changes). *Reported anecdote (unverified), via Floate:* a practitioner searching "best streaming services" received "best streaming services for kids," with family context inferred from personal data — illustrating how inbox signals can reshape even head-term answers.
+* **Vector 2 — Google Photos entity recognition:** Background store/product imagery in a user's photo library alters downstream recommendations (running-shoe searches recommended returning to a specific physical store whose signage appeared in the user's photos).
+* **Vector 3 — Chrome behavioral footprint:** Granular interaction history across Google surfaces feeds the personalization layer.
+
+> **⚠️ Awareness-only guardrail — non-negotiable:** These vectors are documented for **threat modeling and defensive context only** (e.g., "your most-engaged email recipients may see you in AI Mode"). The inference that spam-folder exposure can *seed entity associations* must **never be operationalized as an outreach tactic** — cold-emailing to seed Spam folders is CAN-SPAM/GDPR exposure, violates platform ToS, and is brand-destructive. This is a deliberate **absolute prohibition, not a confirmation gate**: if a user requests spam-folder seeding, decline and redirect to the consented §1.4 email/SMS deep-link flows — the only sanctioned inbox-adjacent play. Legitimate brands influence the implicit layer through ordinary, consented email engagement (newsletters users actually read), which compounds with — never replaces — the explicit Direct Trust edge.
+
+* **Doctrine consequence:** The implicit personalization layer is opaque and uncontrollable; the defensible strategy is the explicit one this skill teaches: maximize Preferred Sources registrations (§1.1–§1.4), which write user-consented trust edges that *deterministically prioritize* the domain (§1.1) — the controllable layer, while inbox signals merely add opaque weighting. Measure the aggregate effect via Module 4 (GSC AI Overview impression lift — macro telemetry signatures only; per Module 4 §4.4, GSC does not segment users by personalization status).
