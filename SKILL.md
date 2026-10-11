@@ -4,7 +4,7 @@ description: "Use when implementing Google Preferred Sources, Direct Trust Overr
 category: technique
 triggers: [preferred-sources, direct-trust, google-ai-button, discover-nl, audio-briefings, trust-cta, preferred-source-tracking]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
