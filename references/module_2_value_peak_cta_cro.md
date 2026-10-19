@@ -33,6 +33,7 @@ To achieve maximum conversion velocity (tripling typical click-through rates fro
    - For transactional flows: On the post-purchase confirmation or post-onboarding screen.
    - For service businesses: 10 minutes after a confirmed 5-star review submission.
 3. **Law of Direct Self-Interest Copy**: Never ask the user to "support us". Frame the action as personal search curation.
+4. **The Omnichannel Authority Loop (Edward Sturm Ep. 1202)**: When an on-site entity declaration or self-promotional listicle earns a Google AI Overview citation (`../../kirby-off-page-seo/SKILL.md` Module 24), embed the Preferred Sources CTA at the value peak of that article. Inbound visitors validating the AI answer can add the domain as a Preferred Source with one click, permanently cementing 1st-party trust into their Google Personalization Graph.
 
 ---
 
