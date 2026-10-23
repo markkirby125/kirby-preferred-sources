@@ -93,3 +93,30 @@ To achieve maximum conversion velocity (tripling typical click-through rates fro
   </button>
 </div>
 ```
+
+---
+
+### Category D: Seasonal E-Commerce & Holiday Flash Deals (VIP Early-Access Hook)
+
+*Source: Edward Sturm Ep. 1206 (David Quaid, Harpreet Singh, Gagan Ghotra).*
+
+**Trigger**: Positioned below the primary conversion viewport with $\ge 150\text{px}$ dedicated vertical clearance from the primary CTA and Discount Transparency Block (`../../kirby-text-first-cro/SKILL.md` §1.7) per §2.3's Law of Singular Focus, or rendered on the post-checkout order confirmation screen during Q4.
+
+* **The Psychology of the Early-Access Ask:** Promotional shoppers are motivated by inventory scarcity and fear of missing limited-quantity coupon drops. Frame the Preferred Source opt-in as an exclusive VIP priority feed that ensures upcoming price cuts appear at the top of their Google search results before public campaigns launch.
+
+```html
+<div class="preferred-source-holiday-vip" style="border: 2px solid #1a73e8; border-radius: 8px; padding: 24px; margin: 32px 0; background: #ffffff;">
+  <h4 style="margin: 0 0 8px 0; font-size: 1.15rem; color: #202124;">
+    Unlock VIP Early-Access to Holiday Flash Deals on Google
+  </h4>
+  <p style="margin: 0 0 16px 0; font-size: 0.95rem; color: #5f6368; line-height: 1.5;">
+    Add us as a Preferred Source in your Google account. Google AI Overviews and Search will automatically prioritize our restock alerts, unadvertised promo drops, and holiday flash discounts whenever you search for deals we offer.
+  </p>
+  <button 
+    class="google-add-preferred-source-btn" 
+    data-domain="example.com"
+    style="background-color: #1a73e8; color: #ffffff; border: none; padding: 12px 24px; font-weight: 700; border-radius: 4px; cursor: pointer;">
+    Prioritize Holiday Deals on Google Search
+  </button>
+</div>
+```

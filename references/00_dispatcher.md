@@ -15,7 +15,7 @@ When executing tasks under this skill, **do not guess**. Consult the specific re
   👉 Read `./module_1_direct_trust_mechanics.md`
 
 - **Module 2: The Value-Peak Isolated CTA & 3x Conversion Rate Framework**  
-  *The psychology of the trust ask, failure modes of footer/sidebar/stacked placements, the Isolated Value-Peak CTA rule, and high-converting copy templates for Local Services, Publishers, and SaaS/E-commerce.*  
+  *The psychology of the trust ask, failure modes of footer/sidebar/stacked placements, the Isolated Value-Peak CTA rule, and high-converting copy templates for Local Services, Publishers, SaaS/E-commerce, and Category D Seasonal E-Commerce & Holiday Flash Deals.*  
   👉 Read `./module_2_value_peak_cta_cro.md`
 
 - **Module 3: Google Discover Natural Language Prompts & News Audio Briefings**  
@@ -32,15 +32,16 @@ When executing tasks under this skill, **do not guess**. Consult the specific re
 
 - You want to integrate the official Google Preferred Sources button or fallback deep link into a website, email sequence, or customer onboarding flow.
 - You are designing or optimizing conversion copy for "Follow on Google AI" to achieve maximum opt-in rates (Module 2).
+- You are integrating a VIP early-access "Follow on Google Search" Preferred Source CTA with $\ge 150\text{px}$ clearance below promotional sections or on post-checkout confirmation screens (Module 2 Category D; discount block layout is in `../../kirby-text-first-cro/SKILL.md` §1.7).
 - You are structuring a post-service customer retention loop for local service businesses (e.g. 5-star Google review $\rightarrow$ Preferred Source trigger).
 - You are optimizing a site's semantic structure for Google News personalized audio briefing attribution (Module 3).
 - You are crafting reader callouts to guide users into customizing their Google Discover feeds via natural language (Module 3).
 - You are configuring Google Analytics 4 or Google Tag Manager to track Preferred Source clicks and correlate with GSC AI Overview impressions (Module 4).
 - You need to understand *why* an AI Mode answer diverges across users (Gmail/Photos/Chrome Personal Intelligence vectors, Module 1 §1.5 — awareness/context only, not an action trigger; the compliant lever remains explicit Direct Trust).
 - Related cross-references:
-  - For local GBP hygiene, Geogrids, and Ask Maps: see `kirby-local-seo`.
-  - For site-wide AI SEO, crawler accessibility, and RAG chunking: see `kirby-aiseo-skill`.
-  - For GSC coverage slope and pogo-sticking decay: see `kirby-seo-telemetry`.
+  - For local GBP hygiene, Geogrids, and Ask Maps: see `../../kirby-local-seo/SKILL.md`.
+  - For site-wide AI SEO, crawler accessibility, and RAG chunking: see `../../kirby-aiseo-skill/SKILL.md`.
+  - For GSC coverage slope and pogo-sticking decay: see `../../kirby-seo-telemetry/SKILL.md`.
 
 ---
 
