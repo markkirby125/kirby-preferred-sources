@@ -50,7 +50,8 @@ To ensure Google's audio briefing crawlers accurately extract and narrate your a
      "author": {
        "@type": "Person",
        "name": "Jane Smith",
-       "url": "https://example.com/authors/jane-smith"
+       "url": "https://example.com/authors/jane-smith",
+       "sameAs": ["https://www.linkedin.com/in/jane-smith-example"]
      },
      "publisher": {
        "@type": "Organization",
@@ -62,6 +63,8 @@ To ensure Google's audio briefing crawlers accurately extract and narrate your a
      }
    }
    ```
+
+   **House guardrail** (not a schema.org or Google requirement; example values are illustrative): a personal byline names a real person with an identifiable real-world identity (a named bio page, newsroom role or professional profile), and the author node's `sameAs` lists only live profile URLs that person actually maintains. Never use a synthetic persona, an invented author, or an AI-generated headshot in author markup or on the bio page. An article with no personal byline may name an `Organization` as `author` instead.
 
 2. **Semantic HTML Tags**:
    Enclose primary body copy inside `<article>` with clean semantic tags (`<header>`, `<p>`, `<section>`). Avoid wrapping key sentences in unsemantic `<div>` or dynamic JavaScript-rendered spans.
