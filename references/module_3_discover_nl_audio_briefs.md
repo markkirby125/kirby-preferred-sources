@@ -47,6 +47,8 @@ To ensure Google's audio briefing crawlers accurately extract and narrate your a
      "@type": "Article",
      "headline": "Definitive Guide to Direct Trust Override in AI Search",
      "description": "How website owners bypass algorithmic volatility with Google Preferred Sources.",
+     "datePublished": "2026-01-15",
+     "image": "https://example.com/article-hero.jpg",
      "author": {
        "@type": "Person",
        "name": "Jane Smith",
